@@ -1,0 +1,43 @@
+.header{
+    background-color: rgba(15, 35, 78, 0.945);
+    padding: 20px;
+    color: #eee;
+}
+
+.group{
+    float: right;
+    padding: 5px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(214, 208, 208);
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+a{
+    color: rgba(15, 35, 78, 1);
+}
+
+a:hover{
+    border: 1px solid rgba(15, 35, 78, 1);
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.content{
+    background-color: #c2d5ff;
+    height: 400px;
+}
+
+.footer{
+    background-color: rgba(15, 35, 78, 0.945);
+    padding: 20px;
+    color: #eee;
+}
